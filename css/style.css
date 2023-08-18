@@ -66,7 +66,7 @@ header p{
   max-width: 600px;
   padding: 0 10px 0 10px;
   margin: auto;
-  margin-bottom: 20px;
+  padding-bottom: 40px;
   text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.42);
 }
 
@@ -74,6 +74,7 @@ nav{
   background-image: linear-gradient(to top, #2fa866, #1a5c37,#063d1e);
   padding: 10px;
   box-shadow: 0 7px 7px rgba(0, 0, 0, 0.479);
+  text-align: center
 }
 
 nav a{
@@ -84,7 +85,7 @@ nav a{
   font-size: .9em;
 }
 .box{
-  margin-left: 20px;
+  margin-left: 40px;
 }
 
 nav a:hover{
